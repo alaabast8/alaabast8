@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
-
 ## About Me
 Excited to bring cutting-edge skills and fresh perspectives to the tech industry. A computer science professional with a Bachelor's degree and currently pursuing a Master's degree. Adept in multiple programming languages, advanced OOP concepts, and Agile methodologies, bringing a unique blend of technical expertise and innovative problem-solving. My passion for continuous learning, quick adaptability, and strong communication skills set me apart as a standout candidate ready to make a significant impact.
 
@@ -44,7 +42,7 @@ Excited to bring cutting-edge skills and fresh perspectives to the tech industry
 ## Contact Me
 - **Email**: alaa.albast@outlook.com
 - **LinkedIn**: [Your LinkedIn Profile](http://www.linkedin.com/in/alaa-albast)
-- **Phone Number**:[Phone](+96171723194)
+- **Phone Number**:+96171723194
 
 ## Fun Facts
 - I enjoy hands-on learning through practical exercises and coding challenges.
